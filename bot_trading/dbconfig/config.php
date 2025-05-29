@@ -1,5 +1,4 @@
-<!-- "api_key": "dtrcbj9sq4scc",
-    "api_secret": "8tNrxafXusOmUSQmYHNjONUqefBRzXInnEHTuNiqZA0" -->
+
 
     <?php
 // Luno API credentials
@@ -12,9 +11,6 @@
 if (!defined('LUNO_API_KEY')) {
     define('LUNO_API_KEY', 'dtrcbj9sq4scc');
 }
-
-if (!defined('LUNO_API_SECRET')) {
-    define('LUNO_API_SECRET', '8tNrxafXusOmUSQmYHNjONUqefBRzXInnEHTuNiqZA0');
 
 }
 
